@@ -1,0 +1,21 @@
+li a {
+	font-weight: bold;
+}
+
+.activated {
+	/* background: #C0C0C0; */
+	text-decoration: underline;
+}
+
+.activated a {
+	color: red;
+}
+
+ul li a:hover {
+	color: red;
+}
+
+li {
+	cursor: pointer;
+	margin-right: 3px solid;
+}
