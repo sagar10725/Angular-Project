@@ -96,6 +96,18 @@
 			<version>1</version>
 		</dependency>
 
+<<<<<<< HEAD
+=======
+		<!-- https://mvnrepository.com/artifact/org.json/json -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20090211</version>
+		</dependency>
+
+
+
+>>>>>>> 08e6f08ea2bcca36e8b0a31c18117bcbb6350037
 		<!-- Servlet -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
